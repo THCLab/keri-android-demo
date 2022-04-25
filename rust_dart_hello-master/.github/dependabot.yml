@@ -1,0 +1,22 @@
+version: 2
+updates:
+- package-ecosystem: cargo
+  directory: "/frb_codegen"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+- package-ecosystem: cargo
+  directory: "/frb_rust"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+- package-ecosystem: cargo
+  directory: "/frb_example/pure_dart/rust"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+- package-ecosystem: cargo
+  directory: "/frb_example/with_flutter/rust"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10

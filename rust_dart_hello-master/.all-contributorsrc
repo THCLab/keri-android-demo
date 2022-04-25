@@ -1,0 +1,148 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "fzyzcjy",
+      "name": "fzyzcjy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5236035?v=4",
+      "profile": "https://github.com/fzyzcjy",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Desdaemon",
+      "name": "Viet Dinh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36768030?v=4",
+      "profile": "https://github.com/Desdaemon",
+      "contributions": [
+        "code",
+        "test",
+        "doc"
+      ]
+    },
+    {
+      "login": "SecondFlight",
+      "name": "Joshua Wade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6700184?v=4",
+      "profile": "https://github.com/SecondFlight",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "smw-wagnerma",
+      "name": "Marcel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66412697?v=4",
+      "profile": "https://github.com/smw-wagnerma",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rustui",
+      "name": "rustui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90625190?v=4",
+      "profile": "https://github.com/rustui",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Michael-F-Bryan",
+      "name": "Michael Bryan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17380079?v=4",
+      "profile": "https://adventures.michaelfbryan.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bus710",
+      "name": "bus710",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8920680?v=4",
+      "profile": "https://bus710.net",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "surban",
+      "name": "Sebastian Urban",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213857?v=4",
+      "profile": "https://scholar.google.com/citations?user=RbAto7EAAAAJ",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "trobanga",
+      "name": "Daniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8888869?v=4",
+      "profile": "https://github.com/trobanga",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AlienKevin",
+      "name": "Kevin Li",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22850071?v=4",
+      "profile": "https://github.com/AlienKevin",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "valeth",
+      "name": "Patrick Auernig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3198362?v=4",
+      "profile": "https://valeth.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "antonok-edm",
+      "name": "Anton Lazarev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22821309?v=4",
+      "profile": "https://antonok.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Unoqwy",
+      "name": "Unoqwy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65187632?v=4",
+      "profile": "https://github.com/Unoqwy",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "feber",
+      "name": "Febrian Setianto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1727318?v=4",
+      "profile": "https://feber.dev",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "flutter_rust_bridge",
+  "projectOwner": "fzyzcjy",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

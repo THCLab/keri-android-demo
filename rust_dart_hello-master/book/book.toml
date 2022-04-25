@@ -1,0 +1,6 @@
+[book]
+authors = ["fzyzcjy", "Desdaemon"]
+language = "en"
+multilingual = false
+src = "src"
+title = "flutter_rust_bridge"
