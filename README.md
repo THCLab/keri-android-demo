@@ -2,4 +2,5 @@
 Demo app for keri android
 
 ### QR code to download the app:
-![image](https://user-images.githubusercontent.com/83274413/165078321-e4310888-27f7-4c37-b3a2-fc79ec0ef7be.png)
+![image](https://user-images.githubusercontent.com/83274413/165081411-50de4948-7586-485e-8d4b-75c67011728d.png)
+
